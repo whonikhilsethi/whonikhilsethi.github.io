@@ -1,0 +1,5 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: NIKHIL SETHI
+description: With a strong foundation in Computer Science and Technology, an aspiring DevOps and Cloud Engineer with hands-on skills in CI/CD, AWS deployment, automation, and prior experience as a mobile app developer intern at CRIS.
