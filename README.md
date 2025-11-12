@@ -2,8 +2,8 @@
 
 📞 **Phone:** +91 9899989528  
 📧 **Email:** [nikhilsethi.work@gmail.com](mailto:nikhilsethi.work@gmail.com)  
-🌐 **Portfolio:** [trainwithshubham.com](https://trainwithshubham.com/)  
-💻 **GitHub:** [whonikhilsethi](https://github.com/whonikhilsethi)  
+🌐 **Portfolio:** [Portfolio.nikhilsethi.com](https://whonikhilsethi.github.io/)  
+💻 **GitHub:** [Github.nikhilsethi](https://github.com/whonikhilsethi)  
 🔗 **LinkedIn:** [linkedin.com/in/sethinikhil2003](https://www.linkedin.com/in/sethinikhil2003/)
 
 ---
